@@ -32,7 +32,7 @@ export default function Header() {
 
                                 
 
-                                  <h3 style={{color:"#354F7E", marginBottom:"-30px",marginTop:"-40px"}}><img src={logo} style={{ marginRight:"20px"}} width="60px"/><span style={{marginTop:"-10px"}}>Sharma Farms Limited</span></h3>
+                                  <h3 style={{color:"#354F7E", marginBottom:"-30px",marginTop:"-40px"}}><img src={logo} style={{ marginRight:"20px"}} width="60px"/><span style={{marginTop:"-10px"}}>Aquatic Farms Limited</span></h3>
 
                                 </a>
 
