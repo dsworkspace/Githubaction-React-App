@@ -1,1 +1,6 @@
-HEllo Chetu
+install dependendies : manually on server 
+install nodejs
+npm 
+
+install apache2 or nginx
+enable port 3000
